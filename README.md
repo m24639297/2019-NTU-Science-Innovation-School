@@ -14,4 +14,4 @@
 * [Summary of Quantum Operations](https://github.com/m24639297/2019-NTU-Science-Innovation-School/blob/master/summary_of_quantum_operations.ipynb): Definition and demonstraion for gates implemented in Qiskit
 
 ## Reference
-For more information, please refer to [Qiskit official tutorials](https://github.com/Qiskit/qiskit-tutorials/tree/master/qiskit) and [teaching materials](https://github.com/m24639297/2019-summer-QC) for 2019 NTU summer QC course.
+For more information, please refer to [Qiskit official tutorials](https://github.com/Qiskit/qiskit-tutorials/tree/master/qiskit).
